@@ -1,2 +1,2 @@
-# adventofcode2021
-My solutions for the [Advent of Code 2021](https://adventofcode.com/) by [Eric Wastll(http://was.tl/)]
+# Advent of Code 2021
+My solutions for the [Advent of Code 2021](https://adventofcode.com/) by [Eric Wastll](http://was.tl/)
