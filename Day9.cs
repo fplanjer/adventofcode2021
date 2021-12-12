@@ -72,16 +72,5 @@ public class Day9
         var input = await File.ReadAllLinesAsync($"inputs/day9{(example ? ".example" : string.Empty)}.txt");
         var data = input.Select(line => line.ToCharArray().Select(c => int.Parse(c.ToString())).ToArray()).ToArray();
         return data;
-        // var res = new int[data.Length, data.Max(x => x.Length)];
-        // for (var i = 0; i < data.Length; ++i)
-        // {
-        //     for (var j = 0; j < data[i].Length; ++j)
-        //     {
-        //         res[i, j] = data[i][j];
-        //     }
-        // }
-
-        // return res;
-
     }
 }
