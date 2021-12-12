@@ -14,5 +14,7 @@
 //Console.WriteLine(await Day7.Part1Async());
 //Console.WriteLine(await Day7.Part2Async());
 //Console.WriteLine(await Day8.Part1Async());
-Console.WriteLine(await Day8.Part2Async());
+//Console.WriteLine(await Day8.Part2Async());
+//Console.WriteLine(await Day9.Part1Async());
+Console.WriteLine(await Day9.Part2Async());
 
